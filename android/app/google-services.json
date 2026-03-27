@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "638408492455",
+    "project_id": "work-wave-59240",
+    "storage_bucket": "work-wave-59240.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638408492455:android:e8c738a858f8bb93d96282",
+        "android_client_info": {
+          "package_name": "com.workwave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWsEIxjC3ENKjToakkjygbNI_3caqwawM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
